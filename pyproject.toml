@@ -43,10 +43,6 @@ test = [
     "pytest-xdist"
 ]
 
-fast-modeling = [
-    "flash-attn>=2.5.0",
-]
-
 [build-system]
 requires = [
     "setuptools",
